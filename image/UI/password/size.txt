@@ -1,0 +1,5 @@
+password_Select    22 x 24    마젠타o
+
+password_Image    126 x 14   마젠타o
+
+password_Font      528 x 16    33개의 문자    마젠타x

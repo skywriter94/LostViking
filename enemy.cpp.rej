@@ -1,0 +1,9 @@
+diff a/enemy.cpp b/enemy.cpp	(rejected hunks)
+@@ -66,6 +66,7 @@
+ 
+ 		//probeY,X ���� �̿��� ������ ������ �ݴ������� ���ư���
+ 		if (!IntersectRect(&temp, &_enemyRect, &_cameraRect)) _enemyState = EnemyState::IDLE;
++
+ 
+ 		//�¿�� �����̴�
+ 		//if(���� �߰��ϸ�(���� ��Ʈ ���� �ȿ� ������))_enemyState=EnemyState::DISCOVERY;
